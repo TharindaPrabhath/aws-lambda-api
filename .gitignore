@@ -9,3 +9,7 @@ jspm_packages
 .esbuild
 
 dist
+
+# credentials
+.env
+aws-config.json
